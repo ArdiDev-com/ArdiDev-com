@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ardi</h1>
-<h3 align="center">A passionate front-end developer from Indonesia</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&center=true&vCenter=true&random=false&width=440&lines=WEB+DEVELOPER;FRONT-END+DEVELOPER+;WEBSITE+DESIGNER+)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardidev-com&label=Profile%20views&color=0e75b6&style=flat" alt="ardidev-com" /> </p>
 
