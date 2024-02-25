@@ -15,7 +15,7 @@
 
 <h2> About Me <img src = "https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width = 50px></h2>
 
-<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
+<img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
 
 - 🔭 I’m currently working on  Soy Estudiante
   
