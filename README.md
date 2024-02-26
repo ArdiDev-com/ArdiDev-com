@@ -16,8 +16,9 @@
 <h2> About Me <img src = "https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width = 50px></h2>
 
 <p align="center">
-<img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" >
+<img width="100%" align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" >
 </p>
+
 
 - 🔭 I’m currently working on  Soy Estudiante
   
@@ -28,6 +29,7 @@
 - 💬 Ask me about Sql, Java, C#, JavaScript
   
 - ⚡ Fun fact: Me gustan los girasoles.
+
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/ArdiDev-com?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
